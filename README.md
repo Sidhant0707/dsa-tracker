@@ -18,3 +18,4 @@ This project helps you stay consistent and organized while practicing DSA.
 
 ```bash
 python tracker.py
+Created by Sidhant Kumar — learning and growing every day ✨
