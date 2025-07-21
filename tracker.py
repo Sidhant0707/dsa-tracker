@@ -1,3 +1,4 @@
+# Simple DSA Tracker CLI app
 def add_problem():
     problem = input("Enter problem name: ")
     with open("problems.txt", "a") as file:
